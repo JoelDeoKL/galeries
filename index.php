@@ -25,7 +25,7 @@ du projet. -->
                     <input type="text" name="auteur" id="auteur"  class="form-control">
                 </div>
                 <div class="col-2">
-                    <input type="submit" value="Ajouter" name="ajouter_citation" class="btn btn-success float-right" name="inscrire">
+                    <input type="submit" value="Ajouter" name="creer_dossier" class="btn btn-success float-right" name="inscrire">
                 </div>
                 <br><br>
                 <div class="form-control">
